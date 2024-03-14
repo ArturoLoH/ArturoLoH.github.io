@@ -10,64 +10,34 @@
     <div class="content-all">
         <div class="content-carrousel">
             <figure>
-                <picture>
-                    <source srcset="angel.webp" type="image/webp">
-                    <img src="angel.jpg" alt="Angel Image">
-                </picture>
+                <img class="lazy" data-src="angel.webp" alt="Angel Image">
             </figure>
             <figure>
-                <picture>
-                    <source srcset="benfica.webp" type="image/webp">
-                    <img src="benfica.jpg" alt="Benfica Image">
-                </picture>
+                <img class="lazy" data-src="benfica.webp" alt="Benfica Image">
             </figure>
             <figure>
-                <picture>
-                    <source srcset="colombo.webp" type="image/webp">
-                    <img src="colombo.jpg" alt="Colombo Image">
-                </picture>
+                <img class="lazy" data-src="colombo.webp" alt="Colombo Image">
             </figure>
             <figure>
-                <picture>
-                    <source srcset="costco.webp" type="image/webp">
-                    <img src="costco.jpg" alt="Costco Image">
-                </picture>
+                <img class="lazy" data-src="costco.webp" alt="Costco Image">
             </figure>
             <figure>
-                <picture>
-                    <source srcset="escaleras.webp" type="image/webp">
-                    <img src="escaleras.jpg" alt="Escaleras Image">
-                </picture>
+                <img class="lazy" data-src="escaleras.webp" alt="Escaleras Image">
             </figure>
             <figure>
-                <picture>
-                    <source srcset="franciaedificio.webp" type="image/webp">
-                    <img src="franciaedificio.jpg" alt="Edificio en Francia Image">
-                </picture>
+                <img class="lazy" data-src="franciaedificio.webp" alt="Edificio en Francia Image">
             </figure>
             <figure>
-                <picture>
-                    <source srcset="latino.webp" type="image/webp">
-                    <img src="latino.jpg" alt="Latino Image">
-                </picture>
+                <img class="lazy" data-src="latino.webp" alt="Latino Image">
             </figure>
             <figure>
-                <picture>
-                    <source srcset="tramfit2.webp" type="image/webp">
-                    <img src="tramfit2.jpg" alt="Tramfit2 Image">
-                </picture>
+                <img class="lazy" data-src="tramfit2.webp" alt="Tramfit2 Image">
             </figure>
             <figure>
-                <picture>
-                    <source srcset="soumaya.webp" type="image/webp">
-                    <img src="soumaya.jpg" alt="Soumaya Image">
-                </picture>
+                <img class="lazy" data-src="soumaya.webp" alt="Soumaya Image">
             </figure>
             <figure>
-                <picture>
-                    <source srcset="cntower.webp" type="image/webp">
-                    <img src="cntower.jpg" alt="CNTower Image">
-                </picture>
+                <img class="lazy" data-src="cntower.webp" alt="CNTower Image">
             </figure>
         </div>
     </div> 
@@ -76,134 +46,83 @@
     <div class="content-all">
         <div class="content-carrousel">
             <figure>
-                <picture>
-                    <source srcset="fruitcacke4.webp" type="image/webp">
-                    <img src="fruitcacke4.jpg" alt="Fruit Cake Image">
-                </picture>
+                <img class="lazy" data-src="fruitcacke4.webp" alt="Fruit Cake Image">
             </figure>
             <figure>
-                <picture>
-                    <source srcset="chocolate.webp" type="image/webp">
-                    <img src="chocolate.jpg" alt="Chocolate Image">
-                </picture>
+                <img class="lazy" data-src="chocolate.webp" alt="Chocolate Image">
             </figure>
             <figure>
-                <picture>
-                    <source srcset="dona.webp" type="image/webp">
-                    <img src="dona.jpg" alt="Dona Image">
-                </picture>
+                <img class="lazy" data-src="dona.webp" alt="Dona Image">
             </figure>
             <figure>
-                <picture>
-                    <source srcset="galleta.webp" type="image/webp">
-                    <img src="galleta.jpg" alt="Galleta Image">
-                </picture>
+                <img class="lazy" data-src="galleta.webp" alt="Galleta Image">
             </figure>
             <figure>
-                <picture>
-                    <source srcset="palomavino.webp" type="image/webp">
-                    <img src="palomavino.jpg" alt="Paloma Vino Image">
-                </picture>
+                <img class="lazy" data-src="palomavino.webp" alt="Paloma Vino Image">
             </figure>
             <figure>
-                <picture>
-                    <source srcset="pastelitos.webp" type="image/webp">
-                    <img src="pastelitos.jpg" alt="Pastelitos Image">
-                </picture>
+                <img class="lazy" data-src="pastelitos.webp" alt="Pastelitos Image">
             </figure>
             <figure>
-                <picture>
-                    <source srcset="ensalada.webp" type="image/webp">
-                    <img src="ensalada.jpg" alt="Ensalada Image">
-                </picture>
+                <img class="lazy" data-src="ensalada.webp" alt="Ensalada Image">
             </figure>
             <figure>
-                <picture>
-                    <source srcset="diademuerto.webp" type="image/webp">
-                    <img src="diademuerto.jpg" alt="Dia de Muertos Image">
-                </picture>
+                <img class="lazy" data-src="diademuerto.webp" alt="Dia de Muertos Image">
             </figure>
             <figure>
-                <picture>
-                    <source srcset="galleta2.webp" type="image/webp">
-                    <img src="galleta2.jpg" alt="Galleta 2 Image">
-                </picture>
+                <img class="lazy" data-src="galleta2.webp" alt="Galleta 2 Image">
             </figure>
             <figure>
-                <picture>
-                    <source srcset="fresas.webp" type="image/webp">
-                    <img src="fresas.jpg" alt="Fresas Image">
-                </picture>
+                <img class="lazy" data-src="fresas.webp" alt="Fresas Image">
+            </figure>
+        </div>
+    </div> 
+    <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
+    <h2>Social</h2>
+    <div class="content-all">
+        <div class="content-carrousel">
+            <figure>
+                <img class="lazy" data-src="modelo1.webp" alt="Modelo1 Image">
+            </figure>
+            <figure>
+                <img class="lazy" data-src="pasarela33.webp" alt="Pasarela33 Image">
+            </figure>
+            <figure>
+                <img class="lazy" data-src="modelo3.webp" alt="Modelo3 Image">
+            </figure>
+            <figure>
+                <img class="lazy" data-src="modelo4.webp" alt="Modelo4 Image">
+            </figure>
+            <figure>
+                <img class="lazy" data-src="modelo5.webp" alt="Modelo5 Image">
+            </figure>
+            <figure>
+                <img class="lazy" data-src="modelo6.webp" alt="Modelo6 Image">
+            </figure>
+            <figure>
+                <img class="lazy" data-src="modelo7.webp" alt="Modelo7 Image">
+            </figure>
+            <figure>
+                <img class="lazy" data-src="modelo8.webp" alt="Modelo8 Image">
+            </figure>
+            <figure>
+                <img class="lazy" data-src="pasarela21.webp" alt="Pasarela21 Image">
+            </figure>
+            <figure>
+                <img class="lazy" data-src="modelos.webp" alt="Modelos Image">
             </figure>
         </div>
     </div> 
     <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
 
-    <h2>Social</h2>
-    <div class="content-all">
-        <div class="content-carrousel">
-            <figure>
-                <picture>
-                    <source srcset="modelo1.webp" type="image/webp">
-                    <img src="modelo1.jpg" alt="Modelo1 Image">
-                </picture>
-            </figure>
-            <figure>
-                <picture>
-                    <source srcset="pasarela33.webp" type="image/webp">
-                    <img src="pasarela33.jpg" alt="Pasarela33 Image">
-                </picture>
-            </figure>
-            <figure>
-                <picture>
-                    <source srcset="modelo3.webp" type="image/webp">
-                    <img src="modelo3.jpg" alt="Modelo3 Image">
-                </picture>
-            </figure>
-            <figure>
-                <picture>
-                    <source srcset="modelo4.webp" type="image/webp">
-                    <img src="modelo4.jpg" alt="Modelo4 Image">
-                </picture>
-            </figure>
-            <figure>
-                <picture>
-                    <source srcset="modelo5.webp" type="image/webp">
-                    <img src="modelo5.jpg" alt="Modelo5 Image">
-                </picture>
-            </figure>
-            <figure>
-                <picture>
-                    <source srcset="modelo6.webp" type="image/webp">
-                    <img src="modelo6.jpg" alt="Modelo6 Image">
-                </picture>
-            </figure>
-            <figure>
-                <picture>
-                    <source srcset="modelo7.webp" type="image/webp">
-                    <img src="modelo7.jpg" alt="Modelo7 Image">
-                </picture>
-            </figure>
-            <figure>
-                <picture>
-                    <source srcset="modelo8.webp" type="image/webp">
-                    <img src="modelo8.jpg" alt="Modelo8 Image">
-                </picture>
-            </figure>
-            <figure>
-                <picture>
-                    <source srcset="pasarela21.webp" type="image/webp">
-                    <img src="pasarela21.jpg" alt="Pasarela21 Image">
-                </picture>
-            </figure>
-            <figure>
-                <picture>
-                    <source srcset="modelos.webp" type="image/webp">
-                    <img src="modelos.jpg" alt="Modelos Image">
-                </picture>
-            </figure>
-        </div>
-    </div> 
-    <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
+    <!-- Agrega LazyLoad.js -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/vanilla-lazyload/17.1.1/lazyload.min.js"></script>
+
+    <!-- Inicializa LazyLoad -->
+    <script>
+        var lazyLoadInstance = new LazyLoad({
+            elements_selector: ".lazy"
+        });
+    </script>
 </body>
 </html>
