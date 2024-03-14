@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Carrusel 3D</title>
+    <link rel="stylesheet" href="stylecarusel.css">
+</head>
+<body>
+    <h2>Mi trabajo</h2>
+    <div class="content-all">
+        <div class="content-carrousel">
+            <figure>
+                <picture>
+                    <source srcset="angel.webp" type="image/webp">
+                    <img src="angel.jpg" alt="Angel Image">
+                </picture>
+            </figure>
+            <figure>
+                <picture>
+                    <source srcset="benfica.webp" type="image/webp">
+                    <img src="benfica.jpg" alt="Benfica Image">
+                </picture>
+            </figure>
+            <figure>
+                <picture>
+                    <source srcset="colombo.webp" type="image/webp">
+                    <img src="colombo.jpg" alt="Colombo Image">
+                </picture>
+            </figure>
+            <figure>
+                <picture>
+                    <source srcset="costco.webp" type="image/webp">
+                    <img src="costco.jpg" alt="Costco Image">
+                </picture>
+            </figure>
+            <figure>
+                <picture>
+                    <source srcset="escaleras.webp" type="image/webp">
+                    <img src="escaleras.jpg" alt="Escaleras Image">
+                </picture>
+            </figure>
+            <figure>
+                <picture>
+                    <source srcset="franciaedificio.webp" type="image/webp">
+                    <img src="franciaedificio.jpg" alt="Edificio en Francia Image">
+                </picture>
+            </figure>
+            <figure>
+                <picture>
+                    <source srcset="latino.webp" type="image/webp">
+                    <img src="latino.jpg" alt="Latino Image">
+                </picture>
+            </figure>
+            <figure>
+                <picture>
+                    <source srcset="tramfit2.webp" type="image/webp">
+                    <img src="tramfit2.jpg" alt="Tramfit2 Image">
+                </picture>
+            </figure>
+            <figure>
+                <picture>
+                    <source srcset="soumaya.webp" type="image/webp">
+                    <img src="soumaya.jpg" alt="Soumaya Image">
+                </picture>
+            </figure>
+            <figure>
+                <picture>
+                    <source srcset="cntower.webp" type="image/webp">
+                    <img src="cntower.jpg" alt="CNTower Image">
+                </picture>
+            </figure>
+        </div>
+    </div> 
+    <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
+    <h2>Comida</h2>
+    <div class="content-all">
+        <div class="content-carrousel">
+            <figure>
+                <picture>
+                    <source srcset="fruitcacke4.webp" type="image/webp">
+                    <img src="fruitcacke4.jpg" alt="Fruit Cake Image">
+                </picture>
+            </figure>
+            <figure>
+                <picture>
+                    <source srcset="chocolate.webp" type="image/webp">
+                    <img src="chocolate.jpg" alt="Chocolate Image">
+                </picture>
+            </figure>
+            <figure>
+                <picture>
+                    <source srcset="dona.webp" type="image/webp">
+                    <img src="dona.jpg" alt="Dona Image">
+                </picture>
+            </figure>
+            <figure>
+                <picture>
+                    <source srcset="galleta.webp" type="image/webp">
+                    <img src="galleta.jpg" alt="Galleta Image">
+                </picture>
+            </figure>
+            <figure>
+                <picture>
+                    <source srcset="palomavino.webp" type="image/webp">
+                    <img src="palomavino.jpg" alt="Paloma Vino Image">
+                </picture>
+            </figure>
+            <figure>
+                <picture>
+                    <source srcset="pastelitos.webp" type="image/webp">
+                    <img src="pastelitos.jpg" alt="Pastelitos Image">
+                </picture>
+            </figure>
+            <figure>
+                <picture>
+                    <source srcset="ensalada.webp" type="image/webp">
+                    <img src="ensalada.jpg" alt="Ensalada Image">
+                </picture>
+            </figure>
+            <figure>
+                <picture>
+                    <source srcset="diademuerto.webp" type="image/webp">
+                    <img src="diademuerto.jpg" alt="Dia de Muertos Image">
+                </picture>
+            </figure>
+            <figure>
+                <picture>
+                    <source srcset="galleta2.webp" type="image/webp">
+                    <img src="galleta2.jpg" alt="Galleta 2 Image">
+                </picture>
+            </figure>
+            <figure>
+                <picture>
+                    <source srcset="fresas.webp" type="image/webp">
+                    <img src="fresas.jpg" alt="Fresas Image">
+                </picture>
+            </figure>
+        </div>
+    </div> 
+    <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
+
+    <h2>Social</h2>
+    <div class="content-all">
+        <div class="content-carrousel">
+            <figure>
+                <picture>
+                    <source srcset="modelo1.webp" type="image/webp">
+                    <img src="modelo1.jpg" alt="Modelo1 Image">
+                </picture>
+            </figure>
+            <figure>
+                <picture>
+                    <source srcset="pasarela33.webp" type="image/webp">
+                    <img src="pasarela33.jpg" alt="Pasarela33 Image">
+                </picture>
+            </figure>
+            <figure>
+                <picture>
+                    <source srcset="modelo3.webp" type="image/webp">
+                    <img src="modelo3.jpg" alt="Modelo3 Image">
+                </picture>
+            </figure>
+            <figure>
+                <picture>
+                    <source srcset="modelo4.webp" type="image/webp">
+                    <img src="modelo4.jpg" alt="Modelo4 Image">
+                </picture>
+            </figure>
+            <figure>
+                <picture>
+                    <source srcset="modelo5.webp" type="image/webp">
+                    <img src="modelo5.jpg" alt="Modelo5 Image">
+                </picture>
+            </figure>
+            <figure>
+                <picture>
+                    <source srcset="modelo6.webp" type="image/webp">
+                    <img src="modelo6.jpg" alt="Modelo6 Image">
+                </picture>
+            </figure>
+            <figure>
+                <picture>
+                    <source srcset="modelo7.webp" type="image/webp">
+                    <img src="modelo7.jpg" alt="Modelo7 Image">
+                </picture>
+            </figure>
+            <figure>
+                <picture>
+                    <source srcset="modelo8.webp" type="image/webp">
+                    <img src="modelo8.jpg" alt="Modelo8 Image">
+                </picture>
+            </figure>
+            <figure>
+                <picture>
+                    <source srcset="pasarela21.webp" type="image/webp">
+                    <img src="pasarela21.jpg" alt="Pasarela21 Image">
+                </picture>
+            </figure>
+            <figure>
+                <picture>
+                    <source srcset="modelos.webp" type="image/webp">
+                    <img src="modelos.jpg" alt="Modelos Image">
+                </picture>
+            </figure>
+        </div>
+    </div> 
+    <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
+</body>
+</html>
